@@ -4,3 +4,5 @@ An app that makes donating to non-profits essentially one-click, instead of a lo
 ** challenges: try not to store credit cards b/c then must be PCI complaint. Maybe use Stripe? But somehow need to not make users input their credit cards each time they want to donate.
 
 ** legal issues
+
+** Google/FB OAuth for personal info storage/login?
