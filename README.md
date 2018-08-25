@@ -6,3 +6,5 @@ An app that makes donating to non-profits essentially one-click, instead of a lo
 ** legal issues
 
 ** Google/FB OAuth for personal info storage/login?
+
+** integrate Google Pay/ Apple Pay?
