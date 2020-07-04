@@ -3,7 +3,8 @@ An app that makes donating to non-profits essentially one-click, instead of a lo
 
 ** challenges: Use Stripe API? But somehow need to not make users input their credit cards each time they want to donate.
 
-** legal issues
+- use JS Web Payments API https://developer.mozilla.org/en-US/docs/Web/API/Payment_Request_API
+
 
 ** Google/FB OAuth for personal info storage/login?
 
