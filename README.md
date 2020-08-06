@@ -5,6 +5,10 @@ An app that makes donating to non-profits essentially one-click, instead of a lo
 
 - use JS Web Payments API https://developer.mozilla.org/en-US/docs/Web/API/Payment_Request_API
 
+Seems like an app already does this... https://www.fastcompany.com/90335022/this-new-app-lets-you-give-to-charity-like-youre-venmoing-a-donation
+
+- but what if integration w/ Venmo as well?
+
 
 ** Google/FB OAuth for personal info storage/login?
 
